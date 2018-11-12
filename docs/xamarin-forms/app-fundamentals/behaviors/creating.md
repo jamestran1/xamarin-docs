@@ -11,7 +11,7 @@ ms.date: 04/06/2016
 
 # Xamarin.Forms Behaviors
 
-_Xamarin.Forms behaviors are created by deriving from the Behavior or Behavior<T> class. This article demonstrates how to create and consume Xamarin.Forms behaviors._
+_Xamarin.Forms behaviors are created by deriving from the `Behavior` or `Behavior<T>` class. This article demonstrates how to create and consume Xamarin.Forms behaviors._
 
 ## Overview
 
